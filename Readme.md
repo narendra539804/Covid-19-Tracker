@@ -1,4 +1,5 @@
-Welcome
+WELCOME
+
 ---
 
 This Project is used for getting the covid-19 Information from each state.
@@ -9,4 +10,5 @@ I deployed using firebase  --> https://covid19datafromeachstate.web.app/
 
 Tech Stack:ReactJs
 ---
+
 ##License & copyright Narendra Naidu
