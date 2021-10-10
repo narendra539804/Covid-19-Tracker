@@ -12,8 +12,8 @@ const App = () => {
   return (
     <div>
       <center>
-        <h1>INDIA COVID-19 DATA</h1>
-        <table className="table">
+        <h1 id="heading">INDIA COVID-19 DATA</h1>
+        <table className="table" id="bg">
           <thead className="thead-dark">
             <tr>
               <th>State</th>
